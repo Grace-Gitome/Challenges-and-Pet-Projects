@@ -1,1 +1,1 @@
-# Kaggle-Exercises-and-Challenges
+# Challenges and Pet-projects
